@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=VitorMSAraujo&color=blueviolet&for-the-badge" alt="Profile Views" />
 </div>
 
-## Welcome to my profile! 😁
+## Welcome to my profile! 😆
 
 Hello, my name is Vitor Araújo, I'm a student of Computer Engenieering at UFPB.
 
