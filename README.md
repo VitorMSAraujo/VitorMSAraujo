@@ -12,14 +12,14 @@ Hello, my name is Vitor Araújo, I'm a student of Computer Engenieering at UFPB.
 
 ## Status:
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VitorMSAraujo&theme=jolly" alt="Profile Details" width="98.5%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VitorMSAraujo&theme=jolly" alt="Top Languages by Repository" width="49%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VitorMSAraujo&theme=jolly" alt="Top Languages by Commit" width="49%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VitorMSAraujo&theme=jolly" alt="Stats" width="49%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VitorMSAraujo&theme=jolly&utcOffset=8" alt="Productive Time" width="49%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VitorMSAraujo&theme=calm" alt="Profile Details" width="98.5%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VitorMSAraujo&theme=calm" alt="Top Languages by Repository" width="49%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VitorMSAraujo&theme=calm" alt="Top Languages by Commit" width="49%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VitorMSAraujo&theme=calm" alt="Stats" width="49%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VitorMSAraujo&theme=calm&utcOffset=8" alt="Productive Time" width="49%">
 </p>
 
-<h2>:notes: Now playing 
+<h2>🎧 Now playing 
 </br>
 <a href="https://open.spotify.com/user/5yaxnzmqjhx86ukfj6h45wnrg"><img src="https://spotify-github-profile.vercel.app/api/view?uid=5yaxnzmqjhx86ukfj6h45wnrg&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Now playing on Spotify" ></a>
 
