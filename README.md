@@ -19,6 +19,10 @@ Hello, my name is Vitor Araújo, I'm a student of Computer Engenieering at UFPB.
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VitorMSAraujo&theme=jolly&utcOffset=8" alt="Productive Time" width="49%">
 </p>
 
+<h2>:notes: Now playing 
+</br>
+<a href="https://open.spotify.com/user/5yaxnzmqjhx86ukfj6h45wnrg"><img src="https://spotify-github-profile.vercel.app/api/view?uid=5yaxnzmqjhx86ukfj6h45wnrg&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Now playing on Spotify" ></a>
+
 ## Contact me:
 <div>
   <a href="mailto:vitor18manuelz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
