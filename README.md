@@ -6,7 +6,7 @@
 
 ## Welcome to my profile! 😆
 
-Hello, my name is Vitor Araújo, I'm a student of Computer Engenieering at UFPB.
+Hello, my name is Vitor Araújo, I'm Computer Engenieering student at UFPB.
 
 <img src="https://skillicons.dev/icons?i=c,cpp,css,html,py,git" />
 
